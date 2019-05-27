@@ -314,6 +314,19 @@ img {
 		font-size: .1rem;
 	}
 }
+@media screen and (min-width:376px) and (max-width:767px) {
+	html{
+		font-size: 90px
+	}
+	.gifts .clearfix .gifts-list{
+		margin-left:25px;
+	}
+	.lucky .luc .luck{
+		width:3rem;
+		height: 2rem;
+		margin: .15rem;
+	}
+}
 @media screen and (min-width:768px) {
 	html{
 		font-size: 80px
