@@ -1,0 +1,94 @@
+.null{
+	text-align: center;
+	padding-top: .3rem;
+}
+.null .sentp1{
+	font-size: .15rem;
+	font-weight: bold;
+	/* border: 1px solid red; */
+	line-height: .42rem;
+}
+.null .sentp2{
+	font-size: .18rem;
+	
+}
+.nullcolor{
+	color: #c1c1c1;
+}
+.not-nullcolor{
+	color: #333333;
+}
+.sentall{
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	padding: .1rem .2rem;
+	margin-top: .2rem;
+}
+.sentall p{
+	font-size: .14rem;
+	line-height: .3rem;
+	/* border: 1px solid red; */
+	color: #656565;
+}
+.sentall span{
+	float: right;
+}
+.sentall .date{
+	font-weight:400;
+}
+.may{
+	font-size: .11rem;
+	line-height: .42rem;
+	color: #878787;
+}
+.mayactive{
+	color: #f9cb5b;
+}
+.leads{
+	width: 100%;
+	background-color: #f8f8f8;
+	/* border: 1px solid red; */
+}
+.leads p{
+	color: #656565;
+	font-size: .12rem;
+	line-height: .24rem;
+}
+.leads a{
+	color:#09bb07;
+	text-decoration: underline;
+}
+.leads a:visited{
+	color:#09bb07;
+	text-decoration: underline;
+}
+.nullfoot{
+	padding-top: .1rem;
+}
+.nullfoot li{
+	display: flex;
+	justify-content: space-between;
+}
+.nullfoot p{
+	font-size: .13rem;
+	line-height: .42rem;
+	/* border: 1px solid red; */
+}
+
+.nullspan{
+	/* border: 1px solid red; */
+	display: inline-block;
+	width: .2rem;
+	position: relative;
+	
+}
+.nullspan img{
+	border-radius: 5px;
+	margin-bottom: .04rem;
+}
+.nullspan .queen{
+	border-radius:0;
+	position: absolute;
+	top: .06rem;
+	right:-.04rem;
+}
