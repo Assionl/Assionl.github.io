@@ -302,6 +302,17 @@ img {
 	.gifts .clearfix .gifts-list{
 		margin-left: 50px;
 	}
+	.lucky .luc .luck{
+		width:1.8rem;
+		height: 1rem;
+		margin: .15rem;
+	}
+	.lucky .luc .desc{
+		font-size: .1rem;
+	}
+	.lucky .konw a{
+		font-size: .1rem;
+	}
 }
 @media screen and (min-width:768px) {
 	html{
